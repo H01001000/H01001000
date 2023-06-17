@@ -28,6 +28,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
           filename: section2.*
+          base: ""
           config_timezone: America/Vancouver
           plugin_followup: yes
           plugin_followup_archived: yes
@@ -49,6 +50,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
           filename: section3.*
+          base: ""
           config_timezone: America/Vancouver
           plugin_activity: yes
           plugin_activity_days: 300
