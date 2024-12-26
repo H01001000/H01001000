@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="526" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="626" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,50 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">JH0project/JH0project</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0a41157</div>
+                                        <div class="message">fix docker build</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3be7a11</div>
+                                        <div class="message">use backend for location data</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67cb88d</div>
+                                        <div class="message">dn42-backend init</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c3a73e2</div>
+                                        <div class="message">chore: fix eslint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#30d5555</div>
+                                        <div class="message">chore: fix deps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f9d811</div>
+                                        <div class="message">move</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08c3566</div>
+                                        <div class="message">move</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -135,26 +179,6 @@
                                     <div class="commit">
                                         <div class="sha">#2056d34</div>
                                         <div class="message">just print result</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">CMPT-7ARCH-SFU/a5-jonathan-4</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2152a80</div>
-                                        <div class="message">mode 3 tiled</div>
                                     </div>
                                 </div>
                             </section>
