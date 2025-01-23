@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="443" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="426" class="">
     <defs>
         <style/>
     </defs>
@@ -22,19 +22,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">JH0project/JH0project</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a80aed7</div>
-                                        <div class="message">clean up and fix hero image</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fecee7a</div>
-                                        <div class="message">fixed blur background</div>
+                                        <div class="sha">#ad1a808</div>
+                                        <div class="message">fix redis cache timeout</div>
                                     </div>
                                 </div>
                             </section>
@@ -53,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2e7bfd5</div>
-                                        <div class="message">temp add background image</div>
+                                        <div class="sha">#a7aafc3</div>
+                                        <div class="message">use socket</div>
                                     </div>
                                 </div>
                             </section>
@@ -73,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#10a91e3</div>
-                                        <div class="message">add metadata for image page</div>
+                                        <div class="sha">#d64a34d</div>
+                                        <div class="message">redis enableAutoPipelining</div>
                                     </div>
                                 </div>
                             </section>
@@ -93,8 +89,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#388a14e</div>
-                                        <div class="message">fix force import  cloudinary</div>
+                                        <div class="sha">#b602984</div>
+                                        <div class="message">add console time out for redis iamge cache</div>
                                     </div>
                                 </div>
                             </section>
@@ -113,8 +109,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e9ab1e4</div>
-                                        <div class="message">make mdx static</div>
+                                        <div class="sha">#e7e1acd</div>
+                                        <div class="message">increase minimumCacheTTL to 2592000</div>
                                     </div>
                                 </div>
                             </section>
@@ -133,8 +129,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#827547f</div>
-                                        <div class="message">try fix cloudinary.v2 config</div>
+                                        <div class="sha">#c0b75cf</div>
+                                        <div class="message">add structured data</div>
                                     </div>
                                 </div>
                             </section>
