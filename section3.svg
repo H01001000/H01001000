@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#805ce3e</div>
-                                        <div class="message">fix missing neo4j driver</div>
+                                        <div class="sha">#5d4364c</div>
+                                        <div class="message">point to latest</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d864c2b</div>
-                                        <div class="message">fix missing neo4j driver</div>
+                                        <div class="sha">#c61829f</div>
+                                        <div class="message">add cron job</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c347ce4</div>
-                                        <div class="message">add map api</div>
+                                        <div class="sha">#bca1e1c</div>
+                                        <div class="message">add cron job</div>
                                     </div>
                                 </div>
                             </section>
@@ -89,8 +89,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a33f9c1</div>
-                                        <div class="message">remove com dns entry</div>
+                                        <div class="sha">#db7f68c</div>
+                                        <div class="message">add cron job</div>
                                     </div>
                                 </div>
                             </section>
@@ -109,8 +109,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4d13c4a</div>
-                                        <div class="message">update dns</div>
+                                        <div class="sha">#63f17a3</div>
+                                        <div class="message">add cron job</div>
                                     </div>
                                 </div>
                             </section>
@@ -129,8 +129,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#491ab51</div>
-                                        <div class="message">fix regex</div>
+                                        <div class="sha">#830ce1a</div>
+                                        <div class="message">add cron job</div>
                                     </div>
                                 </div>
                             </section>
